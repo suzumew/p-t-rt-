@@ -4,3 +4,6 @@ m4a1_466.png
 m4a1_flipped.png
 m4a1_nn_466.png
 m4a1_raw.png
+
+# Local helper scripts
+*.bat
